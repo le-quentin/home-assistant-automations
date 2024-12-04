@@ -1,7 +1,7 @@
 blueprint:
   name: Parabolic Alarm Automation
   description: Turn a light on based on detected motion
-  source_url: https://github.com/le-quentin/home-assistant-blueprints/blob/master/automation/reveil_lever_de_soleil.yaml
+  source_url: https://raw.githubusercontent.com/le-quentin/home-assistant-blueprints/refs/heads/master/automation/reveil_lever_de_soleil.yaml
   domain: automation
   input:
     alarm_start_time:
